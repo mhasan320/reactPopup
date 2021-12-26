@@ -6,7 +6,7 @@ Install React follow this steps
 npx create-react-app my-app
 </code>
 
-<br><br>
+<br>
 Install Tailwind CSS follow this steps
 
 [https://tailwindcss.com/docs/guides/create-react-app](https://tailwindcss.com/docs/guides/create-react-app)
