@@ -3,10 +3,11 @@
 Install React follow this steps
 
 <code>
-npx create-react-app my-app \n
-cd my-app  \n
+npx create-react-app my-app
+cd my-app
 npm start
 </code>
+
 
 Install Tailwind CSS follow this steps
 
