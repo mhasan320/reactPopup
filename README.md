@@ -3,8 +3,8 @@
 Install React follow this steps
 
 <code>
-npx create-react-app my-app  <br>
-cd my-app   <br>
+npx create-react-app my-app \n
+cd my-app  \n
 npm start
 </code>
 
